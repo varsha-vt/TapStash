@@ -1,0 +1,8 @@
+{
+  "name": "tapstash",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
